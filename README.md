@@ -18,8 +18,8 @@ This repository contains all the collaborative materials used in our project for
 To use the notebooks or run the web application:
 1. Clone this repository to your local machine.
 2. Ensure you have Python installed, along with the libraries listed in `requirements.txt`.
-3. Navigate to the `notebooks/` directory and launch Jupyter Notebook or JupyterLab to open the `.ipynb` files.
-4. To run the web application, navigate to the `web_app/` directory and follow the instructions in its dedicated README.
+3. Launch Jupyter Notebook or JupyterLab to open the `.ipynb` files.
+4. To run the web application, run `app.py `
 
 ## Contributing
 We welcome contributions from other researchers and the public. If you wish to contribute:
