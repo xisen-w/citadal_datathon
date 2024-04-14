@@ -36,7 +36,7 @@ We welcome contributions from other researchers and the public. If you wish to c
 This project is open-source under the MIT license.
 
 ## Acknowledgements
-This work was made possible through the support of Citadel and the effort of all team members involved in the datathon. We thank the organizers for providing the opportunity and resources that contributed to this research.
+This work was made possible through the support of Citadel and the effort of all team members involved in the datathon. We thank the organizers for providing the opportunity and resources that contributed to this research. We turned this github into public straight after the deadline of submission. 
 
 ## Training Plots
 ![training_NN_V2_Food_Insecurity_raw_value_Food_Environment_Index_raw_value_Limited_Access_to_Healthy_Foods_raw_value_Poor_Physical_Health_Days_raw_value](https://github.com/Xisen-Wang/citadal_datathon/assets/118058822/eb36bfe9-2fa1-492c-b415-bda046e74bb8)
