@@ -3,6 +3,10 @@
 ## Overview
 This repository contains all the collaborative materials used in our project for the Citadel Datathon. Here, you'll find the data analysis notebooks, visualizations, data files, and the code for our web application demo. Our project aims to explore the socio-economic impacts and health outcomes associated with the consumption of ultra-processed foods in the United States.
 
+![predictedAdult Obesity raw value_United States_2024](https://github.com/Xisen-Wang/citadal_datathon/assets/118058822/b66dbb3d-0ffc-45ce-b084-a0b61be574e6)
+
+![predictedLimited access to healthy foods raw value_Autauga County_2024](https://github.com/Xisen-Wang/citadal_datathon/assets/118058822/9b3ca48a-f68f-4559-8d46-78464ab19108)
+
 ## Repository Contents
 - `data`: This directory contains all datasets used throughout the project.
 - `notebooks`: Jupyter notebooks with extensive Exploratory Data Analyses (EDAs), predictive modeling, and statistical tests.
@@ -33,4 +37,8 @@ This project is open-source under the MIT license.
 
 ## Acknowledgements
 This work was made possible through the support of Citadel and the effort of all team members involved in the datathon. We thank the organizers for providing the opportunity and resources that contributed to this research.
+
+## Training Plots
+![training_NN_V2_Food_Insecurity_raw_value_Food_Environment_Index_raw_value_Limited_Access_to_Healthy_Foods_raw_value_Poor_Physical_Health_Days_raw_value](https://github.com/Xisen-Wang/citadal_datathon/assets/118058822/eb36bfe9-2fa1-492c-b415-bda046e74bb8)
+
 
