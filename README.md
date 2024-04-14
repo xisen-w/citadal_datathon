@@ -8,6 +8,7 @@ This repository contains all the collaborative materials used in our project for
 - `notebooks/`: Jupyter notebooks with extensive Exploratory Data Analyses (EDAs), predictive modeling, and statistical tests.
 - `plots/`: Visualizations generated during the analysis, used both within the notebooks and in our final presentation.
 - `web_app/`: Source code for the web application demo that visualizes our findings and model predictions.
+- `model`: All 70+ models trained for different purposes
 - `README.md`: This file, which provides an overview of the repository.
 
 ## Models and Predictions
