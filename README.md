@@ -4,10 +4,10 @@
 This repository contains all the collaborative materials used in our project for the Citadel Datathon. Here, you'll find the data analysis notebooks, visualizations, data files, and the code for our web application demo. Our project aims to explore the socio-economic impacts and health outcomes associated with the consumption of ultra-processed foods in the United States.
 
 ## Repository Contents
-- `data/`: This directory contains all datasets used throughout the project.
-- `notebooks/`: Jupyter notebooks with extensive Exploratory Data Analyses (EDAs), predictive modeling, and statistical tests.
-- `plots/`: Visualizations generated during the analysis, used both within the notebooks and in our final presentation.
-- `web_app/`: Source code for the web application demo that visualizes our findings and model predictions.
+- `data`: This directory contains all datasets used throughout the project.
+- `notebooks`: Jupyter notebooks with extensive Exploratory Data Analyses (EDAs), predictive modeling, and statistical tests.
+- `plots`: Visualizations generated during the analysis, used both within the notebooks and in our final presentation.
+- `web app`: Source code for the web application demo that visualizes our findings and model predictions.
 - `model`: All 70+ models trained for different purposes
 - `README.md`: This file, which provides an overview of the repository.
 
