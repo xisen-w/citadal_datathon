@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Prediction Form</title>
+</head>
+<body>
+    <h1>Data Prediction</h1>
+    <form method="post">
+        {{ form.hidden_tag() }}
+        {{ form.dataset_path.label }} {{ form.dataset_path() }}<br>
+        {{ form.region_column.label }} {{ form.region_column() }}<br>
+        {{ form.region_name.label }} {{ form.region_name() }}<br>
+        {{ form.variable_of_interest.label }} {{ form.variable_of_interest() }}<br>
+        {{ form.year_to_predict.label }} {{ form.year_to_predict() }}<br>
+        {{ form.submit() }}
+    </form>
+</body>
+</html>

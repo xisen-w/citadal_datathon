@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+</head>
+<body>
+    <h1>Prediction Result</h1>
+    <p>Predicted Value: {{ prediction }}</p>
+    <img src="{{ url_for('static', filename=plot_path) | safe}}" alt="Prediction Plot">
+</body>
+</html>
